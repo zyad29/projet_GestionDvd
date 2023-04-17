@@ -1,0 +1,17 @@
+C:\Users\Utilisateur\source\repos\GestionDvd2\bin\Debug\GestionDvd2.exe.config
+C:\Users\Utilisateur\source\repos\GestionDvd2\bin\Debug\GestionDvd2.exe
+C:\Users\Utilisateur\source\repos\GestionDvd2\bin\Debug\GestionDvd2.pdb
+C:\Users\Utilisateur\source\repos\GestionDvd2\bin\Debug\System.Memory.dll
+C:\Users\Utilisateur\source\repos\GestionDvd2\bin\Debug\System.Buffers.dll
+C:\Users\Utilisateur\source\repos\GestionDvd2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Utilisateur\source\repos\GestionDvd2\bin\Debug\MySql.Data.xml
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.exe.config
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.Form1.resources
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.csproj.CopyComplete
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.exe
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.pdb
+C:\Users\Utilisateur\source\repos\GestionDvd2\obj\Debug\GestionDvd2.csproj.SuggestedBindingRedirects.cache
